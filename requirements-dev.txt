@@ -1,0 +1,11 @@
+# Dependencias para ejecutar los notebooks y las pruebas.
+-r requirements.txt
+matplotlib==3.11.2
+seaborn==0.13.2
+statsmodels==0.15.0
+jupyter==1.1.1
+nbconvert==7.17.2
+ipykernel==7.4.0
+pytest==9.2.0
+python-docx==1.2.0
+pillow==13.0.0
